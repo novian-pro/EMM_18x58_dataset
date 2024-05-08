@@ -1,0 +1,3 @@
+class	training instances	validation instances	testing instances
+Negative (known) 	 4,681	5,565	4,755
+Positive (new)	 11,350	 13,665	13,647

@@ -1,0 +1,21 @@
+class	training instances	validation instances	testing instances
+1. AlternativeEnergy	10	19	14
+2. ClimateAction	10	14	23
+3. ClimateChange	475	484	358
+4. CoronavirusInfection	71	108	95
+5. CybersecurityAntifraud	62	118	122
+6. Drugs	18	39	39
+7. EUEconomy	28	28	23
+8. EUInternet	13	25	16
+9. EnergyMarketsandStrategies	6	10	1
+10.EuropeanCouncil	107	174	111
+11.Europol	169	432	233
+12.FightagainstFraud	21	24	38
+13.FinancialEconomicCrime	6	9	15
+14.ForgeryMoney	2	3	4
+15.InformationSecurity	26	31	56
+16.Migration	49	65	67
+17.NATO	3,516	3,865	3,415
+18.TerroristAttack	92	117	125
+
+In total:	4,681	5,565	4,755
